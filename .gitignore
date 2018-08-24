@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 node_modules/**/*
 .expo/*
 npm-debug.*
-=======
+
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
@@ -66,4 +65,3 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
->>>>>>> fb6b03a5c371e1252427cfbe7f4b1d5bc9ea30a1
